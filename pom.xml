@@ -13,6 +13,7 @@
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
 
+    <sonar.organization>l7aj-imad</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <!-- 
     The two following properties are displayed on your project
@@ -20,8 +21,6 @@
      -->
     <sonar.organization>sonarsource</sonar.organization>
     <sonar.projectKey>SonarSource_sonarcloud-github-action-samples</sonar.projectKey>
-    <sonar.organization>l7aj-imad</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <dependencies>
